@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Singh Pawar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀An aspiring Full-stack web developer proficient in React, Tailwind CSS, Node.js, Express.js, MongoDB, HTML, and JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshpawa&label=Profile%20views&color=0e75b6&style=flat" alt="santoshpawa" /> </p>
 
